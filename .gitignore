@@ -1,0 +1,7 @@
+.idea
+__pycache__
+venv/
+ginger/
+gaze_detection/data/uploads/*.*
+log.txt
+*.pytest_cache/
